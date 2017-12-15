@@ -1,0 +1,3 @@
+cd .nol
+open_with
+shell rm
