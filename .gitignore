@@ -21,6 +21,8 @@ repo/
 .local/
 .gimp-2.8/
 .steam/
+.config/pulse/*.tdb
+.config/dconf/user
 
 .bash_history
 .bash_logout
