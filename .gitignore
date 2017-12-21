@@ -24,6 +24,9 @@ repo/
 .config/pulse/
 .config/dconf/user
 .config/vlc/
+.java/
+.pki/
+.PhpStorm2016.1/
 
 .bash_history
 .bash_logout
@@ -47,3 +50,4 @@ vimtutor
 .xsession*
 .zcompdump
 .zshrc
+.pulse-cookie
